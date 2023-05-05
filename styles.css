@@ -1,0 +1,40 @@
+.gmail__container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 3rem 0;
+}
+
+.gmail__wrap .image {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	width: 300px;
+}
+
+.title__head {
+	text-align: center;
+	margin-top: 1rem;
+}
+
+.text__content {
+	border: 1px solid #ccc;
+	padding: 3rem;
+	margin-top: 2rem;
+	/* max-width: 500px; */
+}
+
+.code__digit {
+	margin: 1rem 0;
+	border: 1px solid #aca9a9;
+	padding: 0.3rem;
+}
+.code {
+	font-size: 25px;
+}
+h6 {
+	margin: 0.7rem 0;
+}
