@@ -31,6 +31,8 @@ img {
 	margin: 1rem 0;
 	border: 1px solid #aca9a9;
 	padding: 0.3rem;
+    font-size: 19px;
+    font-weight: 700;
 }
 .code {
 	font-size: 25px;
